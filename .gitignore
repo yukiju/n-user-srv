@@ -1,3 +1,8 @@
+# SonarQube
+.scannerwork/
+
+# NodeJS Template
+
 # Logs
 logs
 *.log
